@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pan Mignon",
+        "precio": 150,
+        "medida": "kg",
+        "grid": "mayGrid1",
+        "imagen": "Img/pan3.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Pan Salvado",
+        "precio": 160,
+        "medida": "kg",
+        "grid": "mayGrid2",
+        "imagen": "Img/pannegro.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Pan Casero",
+        "precio": 150,
+        "medida": "kg",
+        "grid": "mayGrid3",
+        "imagen": "Img/pan3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pan Brasilero",
+        "precio": 150,
+        "medida": "kg",
+        "grid": "mayGrid4",
+        "imagen": "Img/pan3.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Pan Milonguita",
+        "precio": 150,
+        "medida": "kg",
+        "grid": "mayGrid5",
+        "imagen": "Img/pan3.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pan de Viena",
+        "precio": 120,
+        "medida": "doc",
+        "grid": "mayGrid6",
+        "imagen": "Img/viena.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Pan de Hamburguesa",
+        "precio": 120,
+        "medida": "doc",
+        "grid": "mayGrid7",
+        "imagen": "Img/hamburguesa.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Criollo Común",
+        "precio": 240,
+        "medida": "kg",
+        "grid": "mayGrid8",
+        "imagen": "Img/criollo1.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Criollo de Hojaldre",
+        "precio": 260,
+        "medida": "kg",
+        "grid": "mayGrid9",
+        "imagen": "Img/criollo4.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Chipaca",
+        "precio": 260,
+        "medida": "kg",
+        "grid": "mayGrid10",
+        "imagen": "Img/chipaca2.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Factura",
+        "precio": 460,
+        "medida": "doc",
+        "grid": "mayGrid11",
+        "imagen": "Img/factura3.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Galleta de Agua",
+        "precio": 480,
+        "medida": "kg",
+        "grid": "mayGrid12",
+        "imagen": "Img/galleagua.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Bizcochos Salados",
+        "precio": 480,
+        "medida": "kg",
+        "grid": "mayGrid13",
+        "imagen": "Img/galleagua.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Galletas Azucaradas",
+        "precio": 480,
+        "medida": "kg",
+        "grid": "mayGrid14",
+        "imagen": "Img/galleagua.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Chalitas",
+        "precio": 620,
+        "medida": "kg",
+        "grid": "mayGrid15",
+        "imagen": "Img/galleagua.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Galletas de Miel",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid16",
+        "imagen": "Img/miel.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Galletas Marmoladas",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid17",
+        "imagen": "Img/gallemarmolada.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Galletas con Chocolate",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid18",
+        "imagen": "Img/gallechoco.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Palmeritas",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid19",
+        "imagen": "Img/palmerita.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Pepitas",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid20",
+        "imagen": "Img/pepitas.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Vainillones",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid21",
+        "imagen": "Img/vainillones.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Cañoncitos",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid22",
+        "imagen": "Img/cañoncito.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Ojos de Buey",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid23",
+        "imagen": "Img/ojobuey.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Alfajor de Maicena (chico)",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid24",
+        "imagen": "Img/alfmaicena.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Alfajor de Maicena (grande)",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid25",
+        "imagen": "Img/alfmaicena.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Alfajores Cordobeces",
+        "precio": 800,
+        "medida": "kg",
+        "grid": "mayGrid26",
+        "imagen": "Img/alfachoco.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Sandwich de Miga Jamón y Queso",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid27",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Sandwich de Miga Jamón y Verdura",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid28",
+        "imagen": "Img/sandjyv.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Sandwich de Miga Jamón y Queso (Negro)",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid29",
+        "imagen": "Img/sandjyqn.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Sandwich de Miga Jamón y Choclo",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid30",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Sandwich de Miga Jamón y Picklets",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid31",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Sandwich de Miga Jamón y Anchoa",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid32",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Sandwich de Miga Jamón y Roquefort",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid33",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Sandwich de Miga Jamón y Ananá",
+        "precio": 950,
+        "medida": "doc",
+        "grid": "mayGrid34",
+        "imagen": "Img/sanjyq.jpg"
+    },
+    {
+        "id": 35,
+        "nombre": "Sandwich de Miga Ternera y Queso",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid35",
+        "imagen": "Img/sandtyq.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Sandwich de Miga Ternera y Verdura",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid36",
+        "imagen": "Img/sandtyq.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Sandwich de Miga Ternera y Roquefort",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid37",
+        "imagen": "Img/sandtyq.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Sandwich de Miga Bondiola y Queso",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid38",
+        "imagen": "Img/sandtyq.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Sandwich de Miga Bondiola y Queso (Negro)",
+        "precio": 850,
+        "medida": "doc",
+        "grid": "mayGrid39",
+        "imagen": "Img/sandjyqn.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Pebete de Jamón y Queso",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid40",
+        "imagen": "Img/pebetejyq.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Pebete de Salame  y Queso",
+        "precio": 750,
+        "medida": "doc",
+        "grid": "mayGrid41",
+        "imagen": "Img/pebetesyq.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Pebete de Ternera y Queso",
+        "precio": 950,
+        "medida": "doc",
+        "grid": "mayGrid42",
+        "imagen": "Img/pebetetyq.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Pebete de Bondiola y Queso (Negro)",
+        "precio": 950,
+        "medida": "doc",
+        "grid": "mayGrid43",
+        "imagen": "Img/pebtebyqn.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Tortuguita de Ternera y Queso",
+        "precio": 950,
+        "medida": "doc",
+        "grid": "mayGrid44",
+        "imagen": "Img/tortuguitatyq.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "Tortuguita de Ternera y Verdura",
+        "precio": 950,
+        "medida": "doc",
+        "grid": "mayGrid45",
+        "imagen": "Img/tortuguitatyv.jpg"
+    }
+]
